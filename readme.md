@@ -21,7 +21,7 @@
   <img alt="Tela após selecionar uma carta" src="./src/assets/images/frontend2.png" width="100%">
 </p>
 
-[Acessar o projeto](https://wsawebmaster.github.io/js-piano/)
+[Acessar o projeto](https://wsawebmaster.github.io/js-yugioh/)
 
 <br />
 
